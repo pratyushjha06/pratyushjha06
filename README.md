@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **pratyushjha06@gmail.com**
 
+- ⚡ Fun fact **tech-savvy 👨🏻‍💻**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/pratyush_jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pratyush_jha" height="30" width="40" /></a>
@@ -29,3 +31,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratyushjha06&show_icons=true&locale=en&layout=compact" alt="pratyushjha06" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratyushjha06&show_icons=true&locale=en" alt="pratyushjha06" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratyushjha06&" alt="pratyushjha06" /></p>
