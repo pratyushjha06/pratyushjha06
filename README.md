@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **pratyushjha06@gmail.com**
 
-- ⚡ Fun fact **tech-savvy 👨🏻‍💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
