@@ -1,10 +1,7 @@
-![logo](https://github.com/pratyushjha06/pratyushjha06/blob/main/Banner.png)
-
 <h1 align="center">Hi 👋, I'm Pratyush Jha</h1>
 <h3 align="center">A passionate Computer Science student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyushjha06&label=Profile%20views&color=0e75b6&style=flat" alt="pratyushjha06" /> </p>
-
 
 - 👨‍💻 All of my projects are available at [https://portfolio-gilt-sigma-73.vercel.app/](https://portfolio-gilt-sigma-73.vercel.app/)
 
