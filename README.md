@@ -30,6 +30,7 @@
 
 ## 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pratyush%20Jha-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pratyushjha06)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Pratyush%20Jha-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/pratyushjha06)
 [![Twitter](https://img.shields.io/badge/Twitter-@pratyushjha06-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/pratyushjha06)
 
 ---
@@ -87,7 +88,7 @@
 
 <!-- <img src="https://nirzak-streak-stats.vercel.app/?user=pratyushjha06&theme=gotham" height="180"/> -->
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=pratyushjha06&theme=github-dark&hide_border=true" height="170"/>
+<img src="https://streak-stats.demolab.com?user=pratyushjha06&theme=github-dark&hide_border=true" height="170"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pratyushjha06&theme=github_dark" height="170"/>
 
