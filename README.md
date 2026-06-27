@@ -22,7 +22,7 @@
 ---
 
 ## 🌐 Portfolio & Resume
-- 👨‍💻 **Portfolio:** https://portfolio-gilt-sigma-73.vercel.app/
+- 👨‍💻 **Portfolio:** https://pratyushjha06.github.io/
 - 📄 **Resume:** https://drive.google.com/file/d/1rt-u143fp1Cnuk_ku5WLm8UKINdIvL_M/view
 - 📫 **Email:** pratyushjha06@gmail.com
 
